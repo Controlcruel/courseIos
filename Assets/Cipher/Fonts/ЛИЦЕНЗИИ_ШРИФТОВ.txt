@@ -1,0 +1,5 @@
+Шрифты в этой папке распространяются под свободными лицензиями и могут
+использоваться в учебных и любых других проектах:
+
+- Inter (Inter-Regular.otf, Inter-Bold.otf) — SIL Open Font License 1.1, автор Rasmus Andersson.
+- DejaVu Sans Mono (DejaVuSansMono.ttf) — свободная лицензия DejaVu Fonts (на основе Bitstream Vera).
